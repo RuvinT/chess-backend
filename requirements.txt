@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+numpy
+tensorflow==2.16.1
+Keras==3.3.3
+python-chess
+h5py
