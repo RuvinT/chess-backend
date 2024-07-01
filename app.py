@@ -28,7 +28,7 @@ board_positions = {
     'a': 0, 'b': 1, 'c': 2, 'd': 3, 'e': 4, 'f': 5, 'g': 6, 'h': 7
 }
 # Path to the Stockfish engine
-engine_path = "./stockfish-windows-x86-64-vnni512.exe"
+engine_path = "./stockfish-ubuntu-x86-64-sse41-popcnt"
 NUMOFMOVES = 2
 
 
